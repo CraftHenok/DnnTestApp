@@ -1,0 +1,10 @@
+C:\Users\RAPTOR\source\bin\DnnTestApp.dll.config
+C:\Users\RAPTOR\source\bin\DnnTestApp.dll
+C:\Users\RAPTOR\source\bin\DnnTestApp.pdb
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\XODA.Modules.MiscDnnTestApp.App_LocalResources.Settings.resources
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\DnnTestApp.csproj.GenerateResource.cache
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\DnnTestApp.csproj.CoreCompileInputs.cache
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\DnnTestApp.csproj.CopyComplete
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\DnnTestApp.dll
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\DnnTestApp.pdb
+C:\Users\RAPTOR\source\repos\DnnTestApp\DnnTestApp\obj\Release\DnnTestApp.csprojAssemblyReference.cache
